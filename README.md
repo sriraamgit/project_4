@@ -3,20 +3,13 @@ The libraries used in this project are the numpy, pandas, matplotlib, seaborn
 
 
 Motivation:
-    The present state of affairs of the people in the society, where they think that they can do anything what they like, following short-cuts like, some people want to attain wealth overnight without working hard, some people want a Master's degree overnight without studying, which is wrong.
-Personally I have been motivated a lot from the following, which give me the required discipline ,
-My Guru's words 
-The music of Divine Mother of Pondicherry
-Napoleon Hill's book 'The essence of Law of Success"
-Rudyard Kipling's poem "IF"
-"Ramayana" the major epic of ancient India
+    The present state of affairs of the people in the society, I feel happiness should be achieved through Positive emotions. For me my motivation in this respect have always been my Gurus.
 
 Files in the Repository:
        world-happiness-report-2019.csv   This is the dataset file in .csv format
        The World Happiness Report is a land mark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be.
        country_happiness.ipynb    This is the code file
-       It is a jupyter notebook file consisting of plots  and code
-       
+       It is a jupyter notebook file consisting of plots  and code     
        
        
 Results of the analysis :
