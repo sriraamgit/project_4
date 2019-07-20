@@ -1,5 +1,6 @@
 # project_4
 The libraries used in this project are the numpy, pandas, matplotlib, seaborn 
+
 Motivation:
     My motivation to choose the dataset is,Happiness Reporte are given recently from seven years based on some Countries. I want the people to be happy at the root level because that increases the Happiness score of a Country, by being Positive first, do good things, then be Happy.I have explained a little in my blog about this, here I have taken this dataset to do some statistics.    
     The present state of affairs of the people in the society, where they think that they can do anything what they like, following short-cuts like, some people want to attain wealth overnight without working hard, some people want a Master’s degree overnight without studying, which is wrong.
